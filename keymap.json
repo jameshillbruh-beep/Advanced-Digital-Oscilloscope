@@ -1,5 +1,5 @@
 {
-    "_comment": "Universal Custom Keymap Config (Nintendo Switch Gamepad API -> Xbox 360 XInput & Windows Keyboard/Mouse)",
+    "_comment": "Cyberpunk 2077 Optimized Keymap (Switch Gamepad API -> Xbox 360 & Keyboard/Mouse)",
     "xbox_mapping": {
         "0": "A",
         "1": "B",
@@ -17,7 +17,7 @@
         "15": "DPAD_RIGHT"
     },
     "keyboard_mapping": {
-        "_comment_stick": "Left stick character / vehicle WASD movement",
+        "_comment_stick": "Left stick V movement (WASD)",
         "left_stick_left": [
             "a"
         ],
@@ -30,25 +30,29 @@
         "left_stick_down": [
             "s"
         ],
-        "_comment_dpad": "D-Pad Arrow key navigation",
+        "_comment_dpad": "D-Pad for Vehicle call (V), Health Inhaler (X), & Weapon cycle",
         "button_12": [
+            "v",
             "up"
         ],
         "button_13": [
+            "x",
             "down"
         ],
         "button_14": [
+            "4",
             "left"
         ],
         "button_15": [
+            "3",
             "right"
         ],
-        "_comment_buttons": "Universal Action buttons (Sprint, Jump, Interact, Triggers)",
+        "_comment_buttons": "Cyberpunk 2077 action bindings",
         "button_0": [
             "shift"
         ],
         "button_1": [
-            "r"
+            "c"
         ],
         "button_2": [
             "space"
@@ -60,7 +64,7 @@
             "tab"
         ],
         "button_5": [
-            "q"
+            "r"
         ],
         "button_6": [
             "right_click"
@@ -69,13 +73,13 @@
             "left_click"
         ],
         "button_8": [
-            "v"
+            "m"
         ],
         "button_9": [
             "esc"
         ],
         "button_10": [
-            "caps_lock"
+            "shift"
         ],
         "button_11": [
             "c"
